@@ -12,7 +12,7 @@ Source of Dataset: Indian Health Ministry, Kaggle
 This Project is divided in two parts:-
 For part 1 complete HTML file is provided and for Part 2 link is attached for complete reference
 
-Due to heavy file could not upload visualization file.
+Due to heavy file could not upload visualization file
 
 Below is link for Part2 HTML file
 
